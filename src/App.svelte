@@ -50,8 +50,10 @@
 </main>
 
 <style lang="scss">
+  @import url("https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap");
+  @import url("https://fonts.googleapis.com/css2?family=Azeret+Mono&display=swap");
   :root {
-    font-family: "Berkeley Mono", monospace;
+    font-family: "Xanh Mono", monospace;
     font-weight: 400;
     background-color: rgba(255, 255, 255, 0.87);
     color: #242424;
@@ -78,6 +80,10 @@
       font-size: 50px;
       font-weight: 700;
       margin: 0;
+    }
+
+    p {
+      font-size: 20px;
     }
   }
 
@@ -122,9 +128,9 @@
 
     p {
       text-align: justify;
-      text-justify: inter-word;
-      font-family: monospace;
+      font-family: "Azeret Mono", monospace;
       font-size: 1.2rem;
+      line-height: 1.7rem;
     }
   }
 </style>
