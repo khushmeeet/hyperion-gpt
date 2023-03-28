@@ -1,0 +1,12 @@
+Weaponry
+Various types of weapons technology are employed by the Hegemony, Pax, Ousters and other factions.
+
+Weapon Classes by Projectile Type
+Bhee-keepers - A weapon that fires beams of high-energy electrons.
+CPBs - Ship-based particle beam weapons.
+Deathwands - Highly advanced energy weapons that kill human targets to the exclusion of all other objects in the line of fire.
+Flechette launchers
+Hawking Missiles - Missiles equipped with their own Hawking Drives.
+Hellwhips - Weaponized laser technology, ranging from handheld laser pistols to vehicle-mounted emitters.
+Plasma explosives - Various types of grenade and bomb employ plasma to destroy targets.
+Stunners

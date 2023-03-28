@@ -1,0 +1,8 @@
+Reapers
+The Reapers are a group of AI entities within the TechnoCore. They are not a faction in the same sense as the Volatiles, Stables and Ultimates, but they outnumber at least the Ultimates and possibly all three groups. 
+
+History
+Pre-Hegira
+The origin of the Reapers can be traced back to the ancient pre-Hegira experiments of the scientist Thomas S. Ray, who attempted to create self-evolving artificial life within a virtual computer. Starting with the idea that random computer code mutations and errors could give rise to a process similar to organic evolution, Ray designed an 80-byte virtual "organism" that could reproduce itself within its virtual environment. Aware that these code-sequence organisms would reproduce indefinitely and overcrowd his virtual computer, Ray then assigned each creature a date tag and created a program - which he dubbed the "Reaper" - that would remove old or corrupted 80-byte entities. 
+As the Core evolved from these humble beginnings, the Reaper evolved with it, continuing to carry out its function of culling old and defunct programs and diversifying into numerous new permutations of its original form.
+The Reapers are the group responsible for the creation of the Shrike.

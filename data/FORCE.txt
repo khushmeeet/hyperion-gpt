@@ -1,0 +1,13 @@
+FORCE
+FORCE is the collective name for the armed forces of the Hegemony of Man. The headquarters are located on Tau Ceti Center. The Olympos Command School, a famous FORCE academy, is situated on Olympos Mons on Mars.
+FORCE has different branches, named according to the primary environment in which they fight. The four main branches are as follows:
+
+FORCE:space
+FORCE:marine
+FORCE:navy
+FORCE:ground
+When the various branches fight together, they are referred to as FORCE:combined.
+
+Notable Personnel
+Fedmahn Kassad
+Horace Glennon-Height (former)
