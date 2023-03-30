@@ -13,7 +13,7 @@ For a complete list of Web worlds, see WorldWeb (category).
 
 History
 SPOILER ALERT! The section(s) below are MAJOR SPOILERS.
-The origins of the WorldWeb lay in the beginnings of the Hegira, as humankind left dying Old Earth, and a network farcasters and fatline started to be created, as provided and maintained by the TechnoCore. [1]The Web existed for hundreds of years. It was brought to an end by the destruction of the farcasters ordered by Senate CEO Meina Gladstone before the massive attacks inflicted upon the Hegemony. The subsequent Fall signified the end of the WorldWeb as it had been known.
+The origins of the WorldWeb lay in the beginnings of the Hegira, as humankind left dying Old Earth, and a network farcasters and fatline started to be created, as provided and maintained by the TechnoCore. The Web existed for hundreds of years. It was brought to an end by the destruction of the farcasters ordered by Senate CEO Meina Gladstone before the massive attacks inflicted upon the Hegemony. The subsequent Fall signified the end of the WorldWeb as it had been known.
 
 Known Worlds in the World Web
 Acteon
@@ -37,7 +37,7 @@ Metaxas
 Nevermore
 New Mecca
 Nordholm
-Parsimony[2]
+Parsimony
 Pacem
 Patawpha
 Parvati

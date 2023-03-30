@@ -6,6 +6,12 @@ name = "pypi"
 [packages]
 bs4 = "*"
 requests = "*"
+openai = "*"
+pinecone-client = "*"
+unstructured = {extras = ["local-inference"], version = "*"}
+layoutparser = {extras = ["layoutmodels", "tesseract"], version = "*"}
+langchain = "==0.0.123"
+python-dotenv = "*"
 
 [dev-packages]
 

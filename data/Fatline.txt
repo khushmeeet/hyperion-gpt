@@ -2,7 +2,7 @@ Fatline
 Description
 The Fatline is an instantaneous communication technology. The term is likely a contraction of "Faster Than Light Communication Line," or some similar phrase.
 Fatline is capable of transmitting holographic images as well as 2D videos over interstellar distances in an instant. Fatline is the basic means of communication in the Hegemony. The protocol and the equipment is created by the TechnoCore, but the Ousters also were able to produce their own equipment based on the same principles - they called it the "Void Which Binds". 
-Fatline technology utilizes tachyons as it's transmission medium - faster than light particles sent in a burst that decays over time and distance. This burst of decaying tacyons must be converted and decoded by a receiver at the destination[1].
+Fatline technology utilizes tachyons as it's transmission medium - faster than light particles sent in a burst that decays over time and distance. This burst of decaying tacyons must be converted and decoded by a receiver at the destination.
 
 SPOILER ALERT! The section(s) below are MAJOR SPOILERS.
 Fall
